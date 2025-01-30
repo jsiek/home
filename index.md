@@ -4,8 +4,9 @@ courses in programming, programming languages, compilers, logic, and
 other areas of computer science. Jeremy designs new language features
 to help programmers create and use software libraries and
 domain-specific languages, especially generic and high-performance
-ones. In particular, with Walid Taha, Jeremy invented the gradual
-typing approach to mixing static and dynamic type checking within the
+ones. In particular, with Walid Taha, Jeremy invented the 
+[gradual typing](./WhatIsGradualTyping.md) approach to mixing
+static and dynamic type checking within the
 same language. Prior to that, Jeremy co-authored the Boost Graph
 Library and attempted to add concepts to C++. Jeremy is a member of
 the Center for Programming Systems at IU.
