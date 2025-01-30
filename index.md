@@ -1,4 +1,4 @@
-![Photo of Jeremy Siek](./jsiek.jpg =250x250)
+<img src="./jsiek.jpg" width="200" height="200">Photo of Jeremy Siek</img>
 
 Jeremy Siek is a Professor of Computer Science in the School of
 Informatics and Computing at Indiana University. Jeremy teaches
