@@ -7,17 +7,21 @@ domain-specific languages, especially generic and high-performance
 ones. In particular, with Walid Taha, Jeremy invented the 
 [gradual typing](./WhatIsGradualTyping.md) approach to mixing
 static and dynamic type checking within the
-same language. Prior to that, Jeremy co-authored the Boost Graph
-Library and attempted to add concepts to C++. Jeremy is a member of
-the Center for Programming Systems at IU.
+same language. Prior to that, Jeremy co-authored the
+[Boost Graph Library](http://www.boost.org/doc/libs/1_55_0/libs/graph/doc/index.html)
+and attempted to add concepts to C++. Jeremy is a member of
+the [Center for Programming Systems](https://luddy.indiana.edu/research/centers/center-programming-systems.html) at IU.
 
-Office: Luddy Hall 3016, Blog, github, Twitter, CV, Mastadon: @jeremysiek@types.pl
+Office: Luddy Hall 3016, [Blog](http://siek.blogspot.com/), [github](https://github.com/jsiek/),
+[CV](./resume.pdf), Mastadon: `@jeremysiek@types.pl`
 
 # Deduce Proof Assistant
 
 The Deduce proof assistant is an educational tool that helps students
-to develop correct code. You can read about it on the web page for
-Deduce and from a series of blog posts that I have been writing.
+to develop correct code. You can read about it on the [web page for
+Deduce](https://jsiek.github.io/deduce/) and from a [series of blog
+posts](http://siek.blogspot.com/2024/06/data-structures-and-algorithms-correctly.html)
+that I have been writing.
 
 # Phishing Scam: Research Assistant Position
 
@@ -28,16 +32,17 @@ email to check whether it is legitimate. Thank you.
 
 # Books
 
-* Essentials of Compilation (Racket version: pdf and available from MIT Press, Python version: pdf and also available from MIT Press)
-* The Boost Graph Library (ebook from Pearson, print from Amazon)
+* Essentials of Compilation:  [Racket version](https://mitpress.mit.edu/9780262047760/essentials-of-compilation/) and
+  [Python version](https://mitpress.mit.edu/9780262048248/essentials-of-compilation/)
+* The Boost Graph Library ([ebook](https://www.informit.com/store/boost-graph-library-user-guide-and-reference-manual-9780132651837) from Pearson, [print](https://www.amazon.com/Boost-Graph-Library-Reference-Manual/dp/0201729148) from Amazon)
 
 # Technology Transfer
 
 I’ve been fortunate to see some of my ideas get used in the software industry:
 
 * Microsoft created a gradually-typed dialect of JavaScript, called TypeScript.
-* Facebook has added gradual typing to PHP. See the article in Wired magazine.
-* Facebook has also created Flow, a static type checker for JavaScript.
+* Facebook added gradual typing to PHP.
+* Facebook created Flow, a static type checker for JavaScript.
 
 # Recent Papers and Talks
 
@@ -66,8 +71,12 @@ further below for “authorizer” links to my ACM publications.
 
 # Teaching
 
-* P423/P523:  Compilers (aka. Programming Language Implementation) Fall 2024, Fall 2023, Fall 2022, Fall 2021, Fall 2020, Fall 2018, Spring 2016, Spring 2014
-* C343/H343: Data Structures Spring 2025, Fall 2024, Spring 2024, Fall 2023, Fall 2022, Fall 2021, Fall 2019, Fall 2017, Fall 2016, Fall 2015, Fall 2014, Fall 2013
+* P423/P523: Compilers (aka. Programming Language Implementation) Fall
+  2024, Fall 2023, Fall 2022, Fall 2021, Fall 2020, Fall 2018, Spring
+  2016, Spring 2014
+* C343/H343: Data Structures [Spring 2025](https://iudatastructurescourse.github.io/course-web-page-spring-2025/),
+    Fall 2024, Spring 2024, Fall 2023, Fall 2022, Fall 2021, Fall 2019, Fall 2017, Fall 2016, Fall
+  2015, Fall 2014, Fall 2013
 * B505/I500: Applied Algorithms Spring 2021
 * B522: Programming Language Foundations Spring 2020, Spring 2015
 * B629: Topics in PL: Denotational Semantics Spring 2018
