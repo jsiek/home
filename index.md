@@ -1,3 +1,5 @@
+![Photo of Jeremy Siek](./jsiek.jpg)
+
 Jeremy Siek is a Professor of Computer Science in the School of
 Informatics and Computing at Indiana University. Jeremy teaches
 courses in programming, programming languages, compilers, logic, and
