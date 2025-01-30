@@ -1,4 +1,4 @@
-<img src="./jsiek.jpg" width="200" height="200">Photo of Jeremy Siek</img>
+<img src="./jsiek.jpg" width="200" height="200" caption="Photo of Jeremy Siek"/>
 
 Jeremy Siek is a Professor of Computer Science in the School of
 Informatics and Computing at Indiana University. Jeremy teaches
