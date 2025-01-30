@@ -1,4 +1,4 @@
-![Photo of Jeremy Siek](./jsiek.jpg)
+![Photo of Jeremy Siek](./jsiek.jpg =250x)
 
 Jeremy Siek is a Professor of Computer Science in the School of
 Informatics and Computing at Indiana University. Jeremy teaches
