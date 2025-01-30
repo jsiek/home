@@ -1,6 +1,6 @@
 # What is Gradual Typing
 
-(For a Japanese translation, go here)
+[Japanese translation](http://qiita.com/t2y/items/0a604384e18db0944398)
 
 Gradual typing is a type system I developed with Walid Taha in 2006
 that allows parts of a program to be dynamically typed and other parts

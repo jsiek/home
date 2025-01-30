@@ -13,7 +13,7 @@ and attempted to add concepts to C++. Jeremy is a member of
 the [Center for Programming Systems](https://luddy.indiana.edu/research/centers/center-programming-systems.html) at IU.
 
 Office: Luddy Hall 3016, [Blog](http://siek.blogspot.com/), [github](https://github.com/jsiek/),
-[CV](./resume.pdf), Mastadon: `@jeremysiek@types.pl`
+[CV](./resume.pdf), Mastadon: `@jeremysiek@types.pl`, [google scholar](https://scholar.google.com/citations?user=Vuso8H8AAAAJ)
 
 # Deduce Proof Assistant
 
@@ -49,21 +49,21 @@ I’ve been fortunate to see some of my ideas get used in the software industry:
 The full list is available on Google Scholar and DBLP. Also, see
 further below for “authorizer” links to my ACM publications.
 
-* Gradual Guarantee via Step-Indexed Logical Relations in Agda. Jeremy
+* [Gradual Guarantee via Step-Indexed Logical Relations in Agda](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?PT2024.3). Jeremy
   G. Siek. In Festschrift in Honor of Peter Thiemann’s Sixtieth
   Birthday, August 2024, EPTCS 413.
-* Quest Complete: the Holy Grail of Gradual Security. Tianyu Chen and
+* [Quest Complete: the Holy Grail of Gradual Security](https://dl.acm.org/doi/10.1145/3656442). Tianyu Chen and
   Jeremy G. Siek. In PLDI 2024.
 * An Introduction to Step-indexed Logical Relations via Type Safety
   for STLC + fix. Jeremy G. Siek. IU PL Wonks, November 2023. video
   and slides
 * Mechanized Noninterference for Gradual Security. Tianyu Chen and
-  Jeremy G. Siek. Draft on arXiv. November 2022.
-* Parameterized cast calculi and reusable meta-theory for gradually
-  typed lambda calculi. Jeremy G. Siek and Tianyu Chen. Article in
+  Jeremy G. Siek. Draft on [arXiv](https://arxiv.org/abs/2211.15745). November 2022.
+* [Parameterized cast calculi and reusable meta-theory for gradually typed lambda calculi.](https://doi.org/10.1017/S0956796821000241) 
+  Jeremy G. Siek and Tianyu Chen. Article in
   Journal of Functional Programming. November 2021.
-* Blame and coercion: Together again for the first time. Jeremy
-  G. Siek, Peter Thiemann, and Philip Wadler. Article in the Journal
+* [Blame and coercion: Together again for the first time](https://www.doi.org/10.1017/S0956796821000101).
+  Jeremy G. Siek, Peter Thiemann, and Philip Wadler. Article in the Journal
   of Functional Programming. October 2021.
 * Filter Models for Compiler Correctness. Invited Talk at the workshop
   on Intersection Types and Related Systems (ITRS) 2021. video and
@@ -120,6 +120,7 @@ further below for “authorizer” links to my ACM publications.
 * David Broman (Full Prof. at KTH Royal Inst. of Tech., Sweden)
 * Ph.D. thesis: Meta-Languages and Semantics for Equation-Based Modeling and Simulation
 
+<!--
 # Authorizor (Free) Links to ACM Publications
 
 * ACM DL Author-ize serviceToward efficient gradual typing for structural types via coercions
@@ -182,5 +183,4 @@ further below for “authorizer” links to my ACM publications.
 * The generic graph component library
     Lie-Quan Lee, Jeremy G. Siek, Andrew Lumsdaine
     OOPSLA ’99 Proceedings of the 14th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, 1999
-
-
+-->
