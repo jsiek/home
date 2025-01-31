@@ -104,10 +104,8 @@ The full list is available on Google Scholar and DBLP.
 * Steev Young (Undergraduate Research in Gradual Typing)
 * Josie Bealle (Summer Research Opportunity in Computing)
 * Andre Yuri (Summer Research Opportunity in Computing)
-* Weiyu Miao (LinkedIn)
-* Ph.D. thesis: Reflective Metaprogramming
-* Geoffrey Belter (Apple)
-* Ph.D. thesis: Efficient Generation of Sequences of Dense Linear Algebra through Auto-Tuning
+* Weiyu Miao (LinkedIn) Ph.D. thesis: Reflective Metaprogramming
+* Geoffrey Belter (Apple) Ph.D. thesis: Efficient Generation of Sequences of Dense Linear Algebra through Auto-Tuning
 * Shashank Bharadwaj (VMware)
 * Jonathan Turner (Microsoft Typescript => Mozilla Rust => self employed)
 * Erik Silkensen (Software Engineer, Meta)
@@ -116,11 +114,10 @@ The full list is available on Google Scholar and DBLP.
 * Ian Karlin (Principal Engineer, HPC Ecosystems at NVIDIA)
 * Justin Gottschlich (Parallel Computing Lab @ Intel Labs)
 * Ph.D. thesis: Invalidating Transactions: Optimizations, Theory, Guarantees, and Unification
-* Moss Prescott (SlamData)
-* M.S. thesis: Speaking for the Trees: a New (Old) Approach to Languages and Syntax
+* Moss Prescott (SlamData) M.S. thesis: Speaking for the Trees: a New (Old) Approach to Languages and Syntax
 * Christopher Schwaab (Ph.D. student at the Univ. of St. Andrews)
 * David Broman (Full Prof. at KTH Royal Inst. of Tech., Sweden)
-* Ph.D. thesis: Meta-Languages and Semantics for Equation-Based Modeling and Simulation
+  Ph.D. thesis: Meta-Languages and Semantics for Equation-Based Modeling and Simulation
 
 <!--
 # Authorizor (Free) Links to ACM Publications
