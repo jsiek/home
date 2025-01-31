@@ -48,8 +48,8 @@ I’ve been fortunate to see some of my ideas get used in the software industry:
 
 # Recent Papers and Talks
 
-The full list is available on Google Scholar and DBLP. Also, see
-further below for “authorizer” links to my ACM publications.
+The full list is available on Google Scholar and DBLP. 
+<!--Also, see further below for “authorizer” links to my ACM publications.-->
 
 * [Gradual Guarantee via Step-Indexed Logical Relations in Agda](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?PT2024.3). Jeremy
   G. Siek. In Festschrift in Honor of Peter Thiemann’s Sixtieth
