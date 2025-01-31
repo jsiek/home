@@ -113,7 +113,7 @@ The full list is available on Google Scholar and DBLP.
 * Sri Teja Basava (Principal Software Engineer, National Instruments)
 * Ian Karlin (Principal Engineer, HPC Ecosystems at NVIDIA)
 * Justin Gottschlich (Parallel Computing Lab @ Intel Labs)
-* Ph.D. thesis: Invalidating Transactions: Optimizations, Theory, Guarantees, and Unification
+  Ph.D. thesis: Invalidating Transactions: Optimizations, Theory, Guarantees, and Unification
 * Moss Prescott (SlamData) M.S. thesis: Speaking for the Trees: a New (Old) Approach to Languages and Syntax
 * Christopher Schwaab (Ph.D. student at the Univ. of St. Andrews)
 * David Broman (Full Prof. at KTH Royal Inst. of Tech., Sweden)
