@@ -15,7 +15,7 @@ and attempted to add concepts to C++. Jeremy is a member of
 the [Center for Programming Systems](https://luddy.indiana.edu/research/centers/center-programming-systems.html) at IU.
 
 Office: Luddy Hall 3016, [Blog](http://siek.blogspot.com/), [github](https://github.com/jsiek/),
-[CV](./resume.pdf), Mastadon: `@jeremysiek@types.pl`, [google scholar](https://scholar.google.com/citations?user=Vuso8H8AAAAJ)
+[CV](./resume.pdf), Mastadon: `@jeremysiek@types.pl`, Blue Sky: `jeremysiek.bsky.social`, [google scholar](https://scholar.google.com/citations?user=Vuso8H8AAAAJ)
 
 # Deduce Proof Assistant
 
