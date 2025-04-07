@@ -45,6 +45,7 @@ I’ve been fortunate to see some of my ideas get used in the software industry:
 * Microsoft created a gradually-typed dialect of JavaScript, called TypeScript.
 * Facebook added gradual typing to PHP.
 * Facebook created Flow, a static type checker for JavaScript.
+* The MyPy gradual type checkers for Python.
 
 # Recent Papers and Talks
 
