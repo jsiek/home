@@ -34,8 +34,8 @@ email to check whether it is legitimate. Thank you.
 
 # Books
 
-* Essentials of Compilation:  [Racket version](https://mitpress.mit.edu/9780262047760/essentials-of-compilation/) and
-  [Python version](https://mitpress.mit.edu/9780262048248/essentials-of-compilation/)
+* Essentials of Compilation:  [Racket version](https://www.amazon.com/Essentials-Compilation-Incremental-Approach-Racket/dp/0262047764/ref=sr_1_1?crid=3PVJRCIGWWCRK&dib=eyJ2IjoiMSJ9.OFjVdaw4ygMBljioX9vb-zCeEYon_2Bk7vE7SaLNNOD0QpGdQznc-d-uyAi5vr8JhzRLqNoK7G0iSt65PD52I9uTZZNWT-930a5urtZaTUpt2k-1PhoMe-bjk4Pa0hYx-urVNh4boO6OOqXWtwLcF4fnfK8f9qQexs8BndIx7zOXUkTG_Lqfus8Trqb0u2eb9U8jNztqUoN3XH-Xh6CZbv_X_CWlydIkxYpwirsj6hc.b0SRE98zzk65SfkhoatoCjF04NZ3M8q69VMdcat-7VA&dib_tag=se&keywords=essentials+of+compilation&qid=1744139972&sprefix=essentials+of+compilation%2Caps%2C115&sr=8-1) and
+  [Python version](https://www.amazon.com/Essentials-Compilation-Incremental-Approach-Python/dp/0262048248/ref=sr_1_1?crid=7YSKC7PD7X1Q&dib=eyJ2IjoiMSJ9.dWKCkOcZzyYIUvFNAiwCN70C4VQyxABviboq01ODawo.tlEPGLsYUrlHTbRJtooZUGXXNIADqxvXO1fCT0xL6Fc&dib_tag=se&keywords=essentials+of+compilation+python&qid=1744140003&sprefix=essentials+of+compilation+python%2Caps%2C105&sr=8-1)
 * The Boost Graph Library ([ebook](https://www.informit.com/store/boost-graph-library-user-guide-and-reference-manual-9780132651837) from Pearson, [print](https://www.amazon.com/Boost-Graph-Library-Reference-Manual/dp/0201729148) from Amazon)
 
 # Technology Transfer
