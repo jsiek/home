@@ -36,6 +36,7 @@ email to check whether it is legitimate. Thank you.
 
 * Essentials of Compilation:  [Racket version](https://mitpress.mit.edu/9780262047760/essentials-of-compilation/) and
   [Python version](https://mitpress.mit.edu/9780262048248/essentials-of-compilation/)
+* [Programming Language Foundations in Agda](https://plfa.github.io)
 * The Boost Graph Library ([ebook](https://www.informit.com/store/boost-graph-library-user-guide-and-reference-manual-9780132651837) from Pearson, [print](https://www.amazon.com/Boost-Graph-Library-Reference-Manual/dp/0201729148) from Amazon)
 
 # Technology Transfer
