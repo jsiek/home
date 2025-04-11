@@ -50,9 +50,6 @@ I’ve been fortunate to see some of my ideas get used in the software industry:
 
 # Recent Papers and Talks
 
-The full list is available on Google Scholar and DBLP. 
-<!--Also, see further below for “authorizer” links to my ACM publications.-->
-
 * [Gradual Guarantee via Step-Indexed Logical Relations in Agda](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?PT2024.3). Jeremy
   G. Siek. In Festschrift in Honor of Peter Thiemann’s Sixtieth
   Birthday, August 2024, EPTCS 413.
@@ -72,6 +69,8 @@ The full list is available on Google Scholar and DBLP.
   on Intersection Types and Related Systems (ITRS) 2021.
 
 # Classic Papers (in chronological order)
+
+The full list is available on Google Scholar and DBLP. 
 
 * [The Matrix Template Library: A generic programming approach to high performance linear algebra](./The_Matrix_Template_Library_A_Generic_Pr.pdf), ISCOPE 1998.
 * [The generic graph component library](https://dl.acm.org/doi/10.1145/320384.320428), OOPSLA 1999.
