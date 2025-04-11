@@ -81,6 +81,7 @@ The full list is available on Google Scholar and DBLP.
 * [Concepts: linguistic support for generic programming in C++](https://dl.acm.org/doi/abs/10.1145/1167473.1167499), OOPSLA 2006.
 * [Gradual Typing for Objects](./siek07gradual_objects.pdf), ECOOP 2007.
 * [Gradual typing with unification-based inference](https://dl.acm.org/doi/abs/10.1145/1408681.1408688), DLS 2008.
+* [Automating the generation of composed linear algebra kernels](https://dl.acm.org/doi/abs/10.1145/1654059.1654119), Supercomputing 2009.
 * [Blame for all](https://dl.acm.org/doi/abs/10.1145/1926385.1926409), POPL 2011.
 * [Design and evaluation of gradual typing for Python](https://dl.acm.org/doi/abs/10.1145/2661088.2661101), DLS 2014.
 * [Refined Criteria for Gradual Typing](./refined-criteria-gradual.pdf), SNAPL 2015.
