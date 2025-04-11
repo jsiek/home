@@ -71,6 +71,20 @@ The full list is available on Google Scholar and DBLP.
 * Filter Models for Compiler Correctness. Invited Talk at the workshop
   on Intersection Types and Related Systems (ITRS) 2021.
 
+# Classic Papers (in chronological order)
+
+* [The Matrix Template Library: A generic programming approach to high performance linear algebra](./The_Matrix_Template_Library_A_Generic_Pr.pdf), ISCOPE 1998.
+* [The generic graph component library](https://dl.acm.org/doi/10.1145/320384.320428), OOPSLA 1999.
+* [A comparative study of language support for generic programming](https://dl.acm.org/doi/abs/10.1145/949305.949317), OOPSLA 2003.
+* [Gradual Typing for Functional Languages](./siek06gradual.pdf)
+  Scheme Workshop 2006.
+* [Concepts: linguistic support for generic programming in C++](https://dl.acm.org/doi/abs/10.1145/1167473.1167499), OOPSLA 2006.
+* [Gradual Typing for Objects](./siek07gradual_objects.pdf), ECOOP 2007.
+* [Gradual typing with unification-based inference](https://dl.acm.org/doi/abs/10.1145/1408681.1408688), DLS 2008.
+* [Blame for all](https://dl.acm.org/doi/abs/10.1145/1926385.1926409), POPL 2011.
+* [Design and evaluation of gradual typing for Python](https://dl.acm.org/doi/abs/10.1145/2661088.2661101), DLS 2014.
+* [Refined Criteria for Gradual Typing](./refined-criteria-gradual.pdf), SNAPL 2015.
+
 # Teaching
 
 * P423/P523: Compilers (aka. Programming Language Implementation) 
