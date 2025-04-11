@@ -73,16 +73,16 @@ I’ve been fortunate to see some of my ideas get used in the software industry:
 The full list is available on Google Scholar and DBLP. 
 
 * [The Matrix Template Library: A generic programming approach to high performance linear algebra](./The_Matrix_Template_Library_A_Generic_Pr.pdf), ISCOPE 1998.
-* [The generic graph component library](https://dl.acm.org/doi/10.1145/320384.320428), OOPSLA 1999.
-* [A comparative study of language support for generic programming](https://dl.acm.org/doi/abs/10.1145/949305.949317), OOPSLA 2003.
+* [The generic graph component library](./p399-siek.pdf), OOPSLA 1999.
+* [A comparative study of language support for generic programming](./p115-garcia.pdf), OOPSLA 2003.
 * [Gradual Typing for Functional Languages](./siek06gradual.pdf)
   Scheme Workshop 2006.
-* [Concepts: linguistic support for generic programming in C++](https://dl.acm.org/doi/abs/10.1145/1167473.1167499), OOPSLA 2006.
+* [Concepts: linguistic support for generic programming in C++](./p291-gregor.pdf), OOPSLA 2006.
 * [Gradual Typing for Objects](./siek07gradual_objects.pdf), ECOOP 2007.
-* [Gradual typing with unification-based inference](https://dl.acm.org/doi/abs/10.1145/1408681.1408688), DLS 2008.
-* [Automating the generation of composed linear algebra kernels](https://dl.acm.org/doi/abs/10.1145/1654059.1654119), Supercomputing 2009.
-* [Blame for all](https://dl.acm.org/doi/abs/10.1145/1926385.1926409), POPL 2011.
-* [Design and evaluation of gradual typing for Python](https://dl.acm.org/doi/abs/10.1145/2661088.2661101), DLS 2014.
+* [Gradual typing with unification-based inference](./dls08igtlc.pdf), DLS 2008.
+* [Automating the generation of composed linear algebra kernels](./a59-belter.pdf), Supercomputing 2009.
+* [Blame for all](./popl116gf-ahmed.pdf), POPL 2011.
+* [Design and evaluation of gradual typing for Python](./dls28-vitousekA.pdf), DLS 2014.
 * [Refined Criteria for Gradual Typing](./refined-criteria-gradual.pdf), SNAPL 2015.
 
 # Teaching
