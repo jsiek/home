@@ -1,1 +1,3 @@
 title: Jeremy Siek
+plugins:
+  - jekyll-redirect-from
