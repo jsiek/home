@@ -1,3 +1,13 @@
+---
+# <https://tweag.io/blog/2017-05-23-typing-nix/>
+# links to
+# <http://homes.soic.indiana.edu/jsiek/what-is-gradual-typing>,
+# which already redirects to
+# <https://jsiek.github.io/home/what-is-gradual-typing>,
+# so close the final distance:
+redirect_from: /what-is-gradual-typing
+---
+
 # What is Gradual Typing
 
 [Japanese translation](http://qiita.com/t2y/items/0a604384e18db0944398)
