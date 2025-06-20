@@ -50,6 +50,7 @@ I’ve been fortunate to see some of my ideas get used in the software industry:
 
 # Recent Papers and Talks
 
+* [Verified Nanopasses for Compiling Conditionals](https://www.dropbox.com/scl/fi/cac5jemdpo9duj25aq0n6/verified-nanopass.pdf?rlkey=sfmjjf5fpzwmfwgexd2x3swfv&dl=1) (draft) Jeremy G. Siek. Submitted to OlivierFest'25.
 * [Gradual Guarantee via Step-Indexed Logical Relations in Agda](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?PT2024.3). Jeremy
   G. Siek. In Festschrift in Honor of Peter Thiemann’s Sixtieth
   Birthday, August 2024, EPTCS 413.
