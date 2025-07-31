@@ -91,7 +91,7 @@ The full list is available on Google Scholar and DBLP.
 * P423/P523: Compilers (aka. Programming Language Implementation) 
   [Fall 2024](https://iucompilercourse.github.io/IU-Fall-2024/), Fall 2023, Fall 2022, Fall 2021, Fall 2020, Fall 2018, Spring
   2016, Spring 2014
-* C343/H343: Data Structures [Spring 2025](https://iudatastructurescourse.github.io/course-web-page-spring-2025/),
+* C343/H343: Data Structures [Fall 2025](https://iudatastructurescourse.github.io/course-web-page-fall-2025/), [Spring 2025](https://iudatastructurescourse.github.io/course-web-page-spring-2025/),
     [Fall 2024](https://iudatastructurescourse.github.io/course-web-page-fall-2024/), [Spring 2024](https://iudatastructurescourse.github.io/course-web-page-spring-2024/), Fall 2023, Fall 2022, Fall 2021, Fall 2019, Fall 2017, Fall 2016, Fall
   2015, Fall 2014, Fall 2013
 * B505/I500: Applied Algorithms Spring 2021
