@@ -88,6 +88,7 @@ The full list is available on Google Scholar and DBLP.
 
 # Teaching
 
+* B629: Mechanized Proofs for PL Metatheory [Spring 2026](https://jsiek.github.io/PLFA-Spring-2026/)
 * P423/P523: Compilers (aka. Programming Language Implementation) 
   [Fall 2025](https://iucompilercourse.github.io/IU-Fall-2025/), [Fall 2024](https://iucompilercourse.github.io/IU-Fall-2024/), Fall 2023, Fall 2022, Fall 2021, Fall 2020, Fall 2018, Spring
   2016, Spring 2014
