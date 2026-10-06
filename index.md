@@ -50,24 +50,14 @@ I’ve been fortunate to see some of my ideas get used in the software industry:
 
 # Recent Papers and Talks
 
-* [Verified Nanopasses for Compiling Conditionals](https://www.dropbox.com/scl/fi/cac5jemdpo9duj25aq0n6/verified-nanopass.pdf?rlkey=sfmjjf5fpzwmfwgexd2x3swfv&dl=1) (draft) Jeremy G. Siek. Submitted to OlivierFest'25.
+* [Taming Scope Extrusion in Gradual Imperative Metaprogramming](https://arxiv.org/abs/2602.19951) Accepted for publication at POPL 2027. With Tianyu Chen, Darshal Shetty, Jeremy G. Siek, Chao-Hong Chen, Weixi Ma, Arnaud Venet, Rocky Liu.
+* [Verified Nanopasses for Compiling Conditionals](https://www.dropbox.com/scl/fi/cac5jemdpo9duj25aq0n6/verified-nanopass.pdf?rlkey=sfmjjf5fpzwmfwgexd2x3swfv&dl=1) (draft) Jeremy G. Siek. OlivierFest'25.
 * [Gradual Guarantee via Step-Indexed Logical Relations in Agda](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?PT2024.3). Jeremy
   G. Siek. In Festschrift in Honor of Peter Thiemann’s Sixtieth
   Birthday, August 2024, EPTCS 413.
 * [Quest Complete: the Holy Grail of Gradual Security](https://dl.acm.org/doi/10.1145/3656442). Tianyu Chen and
   Jeremy G. Siek. In PLDI 2024.
-* An Introduction to Step-indexed Logical Relations via Type Safety
-  for STLC + fix. Jeremy G. Siek. IU PL Wonks, November 2023.
-* Mechanized Noninterference for Gradual Security. Tianyu Chen and
-  Jeremy G. Siek. Draft on [arXiv](https://arxiv.org/abs/2211.15745). November 2022.
-* [Parameterized cast calculi and reusable meta-theory for gradually typed lambda calculi.](https://doi.org/10.1017/S0956796821000241) 
-  Jeremy G. Siek and Tianyu Chen. Article in
-  Journal of Functional Programming. November 2021.
-* [Blame and coercion: Together again for the first time](https://www.doi.org/10.1017/S0956796821000101).
-  Jeremy G. Siek, Peter Thiemann, and Philip Wadler. Article in the Journal
-  of Functional Programming. October 2021.
-* Filter Models for Compiler Correctness. Invited Talk at the workshop
-  on Intersection Types and Related Systems (ITRS) 2021.
+
 
 # Classic Papers (in chronological order)
 
